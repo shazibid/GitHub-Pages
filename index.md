@@ -54,7 +54,7 @@ I like working on:
 ### Relative Links
 - [View another markdown file](./README.md)
 
-## 🧾 Code Snippet
+## Code Snippet
 
 Here’s a small example of something I’d write:
 
