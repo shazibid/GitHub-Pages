@@ -42,8 +42,7 @@ I like working on:
 ## Links
 
 ### External Links
-- [My portfolio](shazi-bidarian-portfolio.vercel.app/
-)
+- [My portfolio](https://shazi-bidarian-portfolio.vercel.app/)
 - [Github](http://github.com/shazibid)
 - [Linkedin](https://www.linkedin.com/in/shazi-bidarian/)
 
